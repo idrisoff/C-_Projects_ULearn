@@ -1,0 +1,9 @@
+E:\WorkAndLearn\Restangle\bin\Debug\Rectangles.exe.config
+E:\WorkAndLearn\Restangle\bin\Debug\Rectangles.exe
+E:\WorkAndLearn\Restangle\bin\Debug\Rectangles.pdb
+E:\WorkAndLearn\Restangle\bin\Debug\TestingRoom.dll
+E:\WorkAndLearn\Restangle\obj\Debug\Rectangles.csprojAssemblyReference.cache
+E:\WorkAndLearn\Restangle\obj\Debug\Rectangles.csproj.CoreCompileInputs.cache
+E:\WorkAndLearn\Restangle\obj\Debug\Rectangles.csproj.CopyComplete
+E:\WorkAndLearn\Restangle\obj\Debug\Rectangles.exe
+E:\WorkAndLearn\Restangle\obj\Debug\Rectangles.pdb
