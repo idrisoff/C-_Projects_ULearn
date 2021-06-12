@@ -5,7 +5,6 @@ E:\WorkAndLearn\autocomplete.csproj\bin\Debug\Autocomplete.exe.config
 E:\WorkAndLearn\autocomplete.csproj\bin\Debug\Autocomplete.exe
 E:\WorkAndLearn\autocomplete.csproj\bin\Debug\Autocomplete.pdb
 E:\WorkAndLearn\autocomplete.csproj\bin\Debug\nunit.framework.dll
-E:\WorkAndLearn\autocomplete.csproj\obj\Debug\autocomplete.csprojAssemblyReference.cache
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\Autocomplete.AutocompleteForm.resources
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\Autocomplete.Properties.Resources.resources
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\autocomplete.csproj.GenerateResource.cache
@@ -13,3 +12,4 @@ E:\WorkAndLearn\autocomplete.csproj\obj\Debug\autocomplete.csproj.CoreCompileInp
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\autocomplete.csproj.CopyComplete
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\Autocomplete.exe
 E:\WorkAndLearn\autocomplete.csproj\obj\Debug\Autocomplete.pdb
+E:\WorkAndLearn\autocomplete.csproj\obj\Debug\autocomplete.csproj.AssemblyReference.cache
