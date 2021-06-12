@@ -31,17 +31,13 @@ namespace Autocomplete
             //        return i - 1;
             //}
             //return phrases.Count-1;
-            while (left < right)
-            {
-                var middle = (right + left) / 2;
-                if (string.Compare(prefix, phrases[middle], StringComparison.OrdinalIgnoreCase) < 0
-                    || phrases[middle].StartsWith(prefix, StringComparison.OrdinalIgnoreCase))
-                        right = middle;
-                else left = middle + 1;
-            }
-            if (phrases[right] == ment)
-                return right;
-            return -1;
+            if (left == right - 1) return left;
+            var m = (left + right) / 2;
+            if (string.Compare(prefix, phrases[m], StringComparison.OrdinalIgnoreCase) < 0
+                || phrases[m].StartsWith(prefix, StringComparison.OrdinalIgnoreCase))
+                return GetLeftBorderIndex(phrases, prefix, m, right);
+            return GetLeftBorderIndex(phrases, prefix, left, m);
+
         }
     }
 }
